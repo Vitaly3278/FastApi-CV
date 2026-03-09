@@ -41,6 +41,7 @@ GET	/video-feed	MJPEG поток с веб-камеры с детекцией л
 **GET	/health**	- Проверка здоровья сервера
 
 **POST	/shutdown**	- Завершение работы сервера
+
 **WebSocket	/ws/video**	- WebSocket для потокового видео
 
 ### Документация
