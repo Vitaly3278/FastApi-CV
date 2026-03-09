@@ -334,3 +334,6 @@ async def shutdown_event():
     streaming_active = False
     release_camera()
     logger.info("Приложение завершает работу. Все ресурсы освобождены.")
+
+
+    
